@@ -1,6 +1,6 @@
 # Docker To-Do-List-App
 
-Docker file to create a working containerised version of To-Do-List app, source code for the To-Do-App is here: https://github.com/htr-volker/todo-list-v2
+Docker file to create a working containerised version of To-Do-List app.
 
 ## Overview
 
